@@ -1,4 +1,4 @@
-# ⚡ LeetCode Solutions & DSA Showcase
+#  LeetCode Solutions & DSA Showcase
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79C1E&center=true&vCenter=true&width=500&lines=LeetCode+Problem+Solving;Clean+%26+Structured+DSA+Solutions;Continuous+Learning+%26+Growth" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 A clean, structured, and categorized collection of **LeetCode** algorithmic solutions written in Python, C++, C, and Java. Each problem is organized by Data Structures & Algorithms topic with standardized naming and direct problem links.
 
-## 📊 Summary Statistics
+## Summary Statistics
 
 | Category | Icon | Problem Count | Quick Link |
 | :--- | :---: | :---: | :--- |
